@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+
+<html>
+    <body>
+        <img src="/static/website/staticfiles/test.jpg">
+    </body>
+</html>

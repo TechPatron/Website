@@ -1,0 +1,36 @@
+-- VERSION_4
+-- START DISKCACHE
+/home/bharat/Documents/LiClipse Workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/techpatron/com.python.pydev.analysis/v2_indexcache
+techpatron.settings|1416411214000|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/settings.py
+techpatron.website.views|1416410437000|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/website/views.py
+techpatron.urls|1416410296000|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/urls.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=techpatron.website.views
+1=techpatron.settings
+3=techpatron.urls
+-- END DICTIONARY
+-- START TREE 1
+17
+all|1|ALLOWED_HOSTS!11@
+bas|1|BASE_DIR!11@
+dat|1|DATABASES!11@
+deb|1|DEBUG!11@
+hel|0|
+ins|1|INSTALLED_APPS!11@
+lan|1|LANGUAGE_CODE!11@
+mid|1|MIDDLEWARE_CLASSES!11@
+roo|1|ROOT_URLCONF!11@
+sec|1|SECRET_KEY!11@
+sta|2|STATICFILES_DIRS!11@STATIC_URL!11@
+tem|2|TEMPLATE_DIRS!11@TEMPLATE_DEBUG!11@
+tes|1|test_view!18@
+tim|1|TIME_ZONE!11@
+url|1|urlpatterns!27@
+use|3|USE_TZ!11@USE_L10N!11@USE_I18N!11@
+wsg|1|WSGI_APPLICATION!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

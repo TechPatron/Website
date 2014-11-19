@@ -1,0 +1,21 @@
+MODULES_MANAGER_V2
+manage|/home/bharat/Documents/LiClipse Workspace/techpatron/manage.py
+techpatron.__init__|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/__init__.py
+techpatron.ask.__init__|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/ask/__init__.py
+techpatron.ask.admin|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/ask/admin.py
+techpatron.ask.models|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/ask/models.py
+techpatron.ask.tests|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/ask/tests.py
+techpatron.ask.views|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/ask/views.py
+techpatron.blog.__init__|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/blog/__init__.py
+techpatron.blog.admin|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/blog/admin.py
+techpatron.blog.models|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/blog/models.py
+techpatron.blog.tests|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/blog/tests.py
+techpatron.blog.views|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/blog/views.py
+techpatron.settings|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/settings.py
+techpatron.urls|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/urls.py
+techpatron.website.__init__|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/website/__init__.py
+techpatron.website.admin|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/website/admin.py
+techpatron.website.models|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/website/models.py
+techpatron.website.tests|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/website/tests.py
+techpatron.website.views|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/website/views.py
+techpatron.wsgi|/home/bharat/Documents/LiClipse Workspace/techpatron/techpatron/wsgi.py

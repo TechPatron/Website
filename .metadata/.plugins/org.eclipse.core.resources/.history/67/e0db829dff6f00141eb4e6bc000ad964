@@ -1,0 +1,7 @@
+
+from django.shortcuts import render_to_response
+
+# Create your views here.
+def test_view(request):
+    #t = get_template('website/templates/testing.html')
+    return render_to_response('website/templates/testing.html')
